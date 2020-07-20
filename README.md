@@ -30,7 +30,7 @@ npm start
 
 1. A teacher cannot have more than one subject at the same time.
 
-## Constraints specific to ASIET
+## Constraints specific to KTU
 
 - Hard Constraints
 

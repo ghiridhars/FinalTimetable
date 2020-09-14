@@ -1,6 +1,6 @@
 # KTU Timetable Generator
 
-A web app that generates Time Tables using a Genetic Algorithm. This web app currently is currently developed such that it only makes timetables for 5 days a week, 7 hours a day.
+A web app that generates Time Tables using a Genetic Algorithm. This web app is at its basic stage such that it only makes timetables for 5 days a week, 7 hours a day.
 
 ## How to run
 
